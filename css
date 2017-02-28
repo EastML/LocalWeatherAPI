@@ -1,0 +1,45 @@
+body {
+  background-color: #333333;
+  color: #DDDDDD;
+}
+
+#holdBox {
+  margin-top: 3%;
+  padding: 3%;
+}
+
+#title {
+  font-size: 3em;
+  padding-bottom 2%;
+}
+
+#info > * {
+  padding: 2%;
+}
+
+#weather {
+  font-size: 2em;
+}
+
+#tempF {
+  display: none;
+  font-size: 3em;
+}
+
+#tempC {
+  font-size: 3em;
+}
+
+.btn {
+  font-size: 1em;
+  padding:0px;
+}
+
+.credits {
+  font-size: 1.1em;
+}
+
+.fa-tint {
+  color: #189DFB;
+  padding: 0px;
+}
